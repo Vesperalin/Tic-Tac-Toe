@@ -1,5 +1,4 @@
 package View;
-//dodac chechk boxy jako kto zaczyna
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JButton;

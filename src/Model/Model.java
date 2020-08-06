@@ -20,7 +20,7 @@ public class Model {
 		createEmptyBorad();
 		resetWinnersSign();
 	}
-	///////////////////////////////////////
+
 	public void createEmptyBorad() {
 		board=new String[3][3];
 		for(int i=0; i<3; i++) {
@@ -63,6 +63,7 @@ public class Model {
 		}
 		return false;
 	}
+	
 	//resetters
 	public void resetWinnersSign() {
 		winnersSign="";
@@ -87,6 +88,7 @@ public class Model {
 	public void resetFinishedGame() {
 		isFinished=false;
 	}
+	
 	//setters
 	public void setStartingSign() {
 		if(startingSign==null || startingSign=="O") {
@@ -111,6 +113,7 @@ public class Model {
 			sign=initialSign;
 		}
 	}
+	
 	//getters
 	public String getWinnersSign() {
 		return winnersSign;
