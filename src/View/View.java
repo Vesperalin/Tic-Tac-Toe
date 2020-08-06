@@ -33,7 +33,7 @@ public class View {
 		//frame
 		frame = new JFrame("Tic-Tac-Toe");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		frame.setSize(330, 453);
+		frame.setSize(330, 463);
 		frame.setResizable(false);
 		//mainPanels
 		centerPanel = new JPanel();
