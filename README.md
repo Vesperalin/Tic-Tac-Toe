@@ -1,11 +1,14 @@
 # Tic-Tac-Toe
-This is a simple Tic Tac Toe game with graphical user interface. The game is for two players. I made it after the first semester of IT studies.
 
 ## Table of contents
+* [General info](#general-info)
 * [Programming language](#programming-language)
 * [Design pattern](#design-pattern)
 * [Project view](#project-view)
 * [More info about the game](#more-info-about-the-game)
+
+## General info
+This is a simple Tic Tac Toe game with graphical user interface. The game is for two players. I made it after the first semester of IT studies.
 
 ## Programming Language 
 * Java
