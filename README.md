@@ -16,6 +16,7 @@ This is a simple Tic Tac Toe game with graphical user interface. The game is for
 ## Project view
 ![TTTmain](https://user-images.githubusercontent.com/68510280/89662218-0d897500-d8d4-11ea-8e19-fa7ee11ca920.png)
 
+-------------------------------------------------------------------------------------
 
 ![TTT](https://user-images.githubusercontent.com/68510280/89662248-167a4680-d8d4-11ea-9504-78e7e09c31f1.png)
 
